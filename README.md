@@ -11,12 +11,10 @@
 <p align="left">
 <a href="https://twitter.com/kyayrrsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyayrrsaurabh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurabh-singh-82287a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-singh-82287a201" height="30" width="40" /></a>
-<a href="https://fb.com/saurabh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh singh" height="30" width="40" /></a>
 <a href="https://instagram.com/saurabhh.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhh.__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zoro_xd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zoro_xd" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saurabhh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saurabhh02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devilsaurabh94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devilsaurabh94" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devilsaurabh94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devilsaurabh94" height="30" width="40" /></a>
 <a href="https://discord.gg/Hisoka#0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hisoka#0206" height="30" width="40" /></a>
 </p>
 
