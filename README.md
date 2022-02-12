@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">A Self taught coder and a passionate full Stack developer from Lucknow, India</h3>
+<h3 align="center">A Self taught coder with heavy emphasis on web development. Trying to make its way through competitive coding and to gain excellence in the field of Development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhh-svg&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhh-svg" /> </p>
 
