@@ -1,10 +1,7 @@
-# saurabh-svg
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">A Self taught coder and a passionate full Stack developer from Lucknow, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhh-svg&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhh-svg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhh-svg" alt="saurabhh-svg" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kyayrrsaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/kyayrrsaurabh?logo=twitter&style=for-the-badge" alt="kyayrrsaurabh" /></a> </p>
 
