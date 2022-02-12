@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kyayrrsaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/kyayrrsaurabh?logo=twitter&style=for-the-badge" alt="kyayrrsaurabh" /></a> </p>
 
-- 🔭 I’m currently working on **Alumni Portal**
+- 🔭 I’m currently working on a Full Stack **Alumni Portal** Using MYSQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
