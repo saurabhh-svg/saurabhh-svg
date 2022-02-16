@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">A Self taught coder and a passionate full Stack developer from Lucknow, India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhh-svg&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhh-svg" /> align="right"> <a href="https://twitter.com/kyayrrsaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/kyayrrsaurabh?logo=twitter&style=for-the-badge"  height="25" width="200"  alt="kyayrrsaurabh" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhh-svg&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhh-svg" />  <a align="right" href="https://twitter.com/kyayrrsaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/kyayrrsaurabh?logo=twitter&style=for-the-badge"  height="25" width="200"  alt="kyayrrsaurabh" /></a> </p>
 
 - 🔭 I’m currently working on **Alumni Portal**
 
