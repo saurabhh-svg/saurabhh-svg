@@ -18,4 +18,4 @@
 
 - [Check My Repositories](https://github.com/sharmaumang001?tab=repositories)
 
-<p><img align="left" filter:brightness(50%) src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhh-svg&show_icons=true&locale=en&layout=compact" alt="saurabhh-svg" /> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhh-svg&show_icons=true&locale=en" alt="saurabhh-svg"  /></p>
+<p><img align="left" opacity: 0.5 src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhh-svg&show_icons=true&locale=en&layout=compact" alt="saurabhh-svg" /> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhh-svg&show_icons=true&locale=en" alt="saurabhh-svg"  /></p>
