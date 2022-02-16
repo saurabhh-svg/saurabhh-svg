@@ -14,6 +14,5 @@
 ### 🎯 Github Stats
 
 - [Check My Repositories](https://github.com/saurabhh-svg?tab=repositories)
-
-<p> <img align="left" filter src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhh-svg&show_icons=true&locale=en&layout=compact&theme=gotham" alt="saurabhh-svg" /> </p>
-<p> <img  align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhh-svg&show_icons=true&locale=en&theme=gotham" alt="saurabhh-svg"  /> </p>
+- 
+<p> <img filter src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhh-svg&show_icons=true&locale=en&layout=compact&theme=gotham" alt="saurabhh-svg" /><img src="https://github-readme-stats.vercel.app/api?username=saurabhh-svg&show_icons=true&locale=en&theme=gotham" alt="saurabhh-svg"  /> </p>
