@@ -13,6 +13,7 @@
 
 ### 🎯 Github Stats
 
-- [Check My Repositories](https://github.com/sharmaumang001?tab=repositories)
+- [Check My Repositories](https://github.com/saurabhh-svg?tab=repositories)
 
-<img align="left" filter src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhh-svg&show_icons=true&locale=en&layout=compact&theme=gotham" alt="saurabhh-svg" /> <img  align="right" src="https://github-readme-stats.vercel.app/api?username=saurabhh-svg&show_icons=true&locale=en&theme=gotham" alt="saurabhh-svg"  />
+<p> <img align="left" filter src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhh-svg&show_icons=true&locale=en&layout=compact&theme=gotham" alt="saurabhh-svg" /> </p>
+<p> <img  align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhh-svg&show_icons=true&locale=en&theme=gotham" alt="saurabhh-svg"  /> </p>
