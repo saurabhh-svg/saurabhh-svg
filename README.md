@@ -4,7 +4,7 @@
 
 <p align="right"> <a href="https://twitter.com/kyayrrsaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/kyayrrsaurabh?logo=twitter&style=for-the-badge"   alt="kyayrrsaurabh" /></a> </p>
 
-- 🔭 I’m currently working on **on Travelling & Booking App to find companions & Hotels for stycations.**
+- 🔭 I’m currently working on **on Travelling & Booking App to find companions & Hotels for staycations.**
 
 - 💬 Ask me about **react, node, Competitive Coding and Data Structures**
 
