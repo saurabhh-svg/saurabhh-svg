@@ -9,7 +9,7 @@
 
 <!-- [![Polywork Badge](https://img.shields.io/badge/-saurabhhsingh-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/saurabhhsingh)](http://polywork.com/saurabhhsingh) -->
 
-I develop error free long lasting softwares.
+I build long-lasting, productive & error free softwares.
 
 [![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhh-svg&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/saurabhh-svg-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhh-svg&layout=compact&theme=calm)](https://github.com/saurabhh-svg-readme-stats)
