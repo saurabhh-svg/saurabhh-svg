@@ -2,7 +2,7 @@
 
 [![GitHub saurabhh-svg](https://img.shields.io/github/followers/saurabhh-svg?label=follow&style=social)](https://github.com/saurabhh-svg)
 [![Linkedin: Saurabh Singh](https://img.shields.io/badge/-Saurabh%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-82287a201/)](https://www.linkedin.com/in/saurabh-singh-82287a201/)
-[![Medium Badge](https://img.shields.io/badge/-@Saurabh%20Singh-black?style=flat-square&labelColor=000000&logo=Medium&link=https://saurabh-singhh.netlify.app/)](https://saurabh-singhh.netlify.app/)
+[![Medium Badge](https://img.shields.io/badge/-@Portfolio-black?style=flat-square&labelColor=000000&logo=Medium&link=https://saurabh-singhh.netlify.app/)](https://saurabh-singhh.netlify.app/)
 [![Twitter: kyayrrsaurabh](https://img.shields.io/twitter/follow/kyayrrsaurabh?style=social)](https://twitter.com/kyayrrsaurabh)
 <!-- [![Codeforces: saurabhh02](https://img.shields.io/codeforces.com/profile/Saurabhh02?style=social)](https://codeforces.com/profile/Saurabhh02)
 [![Leetcode: saurabhh02](https://img.shields.io/codeforces.com/profile/Saurabhh02?style=social)](https://codeforces.com/profile/Saurabhh02) -->
