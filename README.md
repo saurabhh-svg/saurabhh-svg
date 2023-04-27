@@ -1,24 +1,28 @@
-<h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">A Self taught coder and a passionate full Stack developer from Lucknow, India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhh-svg&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhh-svg" /> </p>
+## Hey! I'm Saurabh Singh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="right"> <a href="https://twitter.com/kyayrrsaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/kyayrrsaurabh?logo=twitter&style=for-the-badge"   alt="kyayrrsaurabh" /></a> </p>
+[![GitHub saurabhh-svg](https://img.shields.io/github/followers/saurabhh-svg?label=follow&style=social)](https://github.com/saurabhh-svg)
+[![Linkedin: Saurabh Singh](https://img.shields.io/badge/-Saurabh%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-82287a201/)](https://www.linkedin.com/in/saurabh-singh-82287a201/)
+[![Twitter: kyayrrsaurabh](https://img.shields.io/twitter/follow/kyayrrsaurabh?style=social)](https://twitter.com/kyayrrsaurabh)
 
-- 🔭 I’m currently working on **on Travelling & Booking App to find companions & Hotels for staycations.**
+<!-- [![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@saurabh-singh)](https://medium.com/@saurabh-singh) -->
+<!-- [![Polywork Badge](https://img.shields.io/badge/-saurabhhsingh-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/saurabhhsingh)](http://polywork.com/saurabhhsingh) -->
 
-- 💬 Ask me about **react, node, Competitive Coding and Data Structures**
+I develop error free long lasting softwares.
 
-- 📫 How to reach me **singhsaurabh2901@gmail.com**
+[![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhh-svg&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/saurabhh-svg-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhh-svg&layout=compact&theme=calm)](https://github.com/saurabhh-svg-readme-stats)
 
-<div className="flex flex-col justify-content-center">
-  <a href="https://twitter.com/kyayrrsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyayrrsaurabh" height="20" width="30" /></a>    |     <a href="https://linkedin.com/in/saurabh-singh-82287a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-singh-82287a201" height="20" width="30" /></a>       |        <a href="https://instagram.com/saurabhh.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhh.__" height="20" width="30" /></a>       |        <a href="https://codeforces.com/profile/saurabhh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saurabhh02" height="20" width="30" /></a>       |        <a href="https://discord.gg/Hisoka#0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hisoka#0206" height="20" width="30" /></a>       |        <a href="https://leetcode.com/Saurabhh__/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Saurabhh02" height="20" width="30" /></a> 
-  </div>
+<!--
+**saurabh/saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 🎯 Github Stats
+Here are some ideas to get you started:
 
-- [Check My Repositories](https://github.com/saurabhh-svg?tab=repositories)
-
-
-
-
-<!-- <p> <img filter src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhh-svg&show_icons=true&locale=en&layout=compact&theme=gotham" alt="saurabhh-svg" />   <img src="https://github-readme-stats.vercel.app/api?username=saurabhh-svg&show_icons=true&locale=en&theme=gotham" alt="saurabhh-svg"  /> </p> -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
